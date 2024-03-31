@@ -28,7 +28,7 @@ The analysis suggests potential for price optimization based on room type, size,
 To explore the Jupyter notebooks and run the analysis:
 1. Ensure Python and Jupyter are installed on your system.
 2. Install the required packages using `pip install -r requirements.txt`.
-3. Navigate to the `notebooks/` directory and open `Exploratory_Data_Analysis.ipynb`.
+3. Navigate to the `notebooks/` directory and open `Airbnb_project_V2.ipynb`.
 
 ## Future Work
 Suggested areas for further analysis include predictive modeling to determine pricing strategies and deep dives into guest preferences.
